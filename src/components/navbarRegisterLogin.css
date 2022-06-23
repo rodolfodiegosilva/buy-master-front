@@ -1,0 +1,10 @@
+.test3{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color: aqua;
+
+}
+.test3 div{
+    margin: 10px;
+}
